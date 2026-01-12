@@ -1,0 +1,3 @@
+# one-file-page-project
+
+Initial repository setup for pr-poehali-dev/one-file-page-project
